@@ -2,3 +2,5 @@ Trisha: Hello!
 Don: Hi! Whats up?
 Trisha: Nothing much, just teaching Git. Have you used it before?
 Don: Not yet, but I want to learn!
+Trisha: Do you want to learn?
+Don: Of course, where do I get started?
